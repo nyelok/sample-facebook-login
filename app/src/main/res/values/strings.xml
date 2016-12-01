@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock\'n Log\'n App</string>
+    <string name="facebook_app_id">347496418962763</string>
+    <string name="fb_login_protocol_scheme">fb347496418962763</string>
+    <string name="title_activity_secured">SecuredActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
