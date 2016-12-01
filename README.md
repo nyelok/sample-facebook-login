@@ -8,7 +8,7 @@ The only mistake that I made with this one was in the AndroidManifest file make 
 to add the meta-data tag INSIDE the application node. If you add it outside, you will get
 a NPE trying to pass the app id to fb.
 
-![logging in](https://www.evernote.com/l/AGUWGMN9biFEApKT1u1UbumL5dVYoIJpmgE)
-![logging in](https://www.evernote.com/l/AGWfezgbTXhFn4e9gZEMt-moBem-46bYIMY)
+* logging in: https://www.evernote.com/l/AGUWGMN9biFEApKT1u1UbumL5dVYoIJpmgE
+* logged in:  https://www.evernote.com/l/AGWfezgbTXhFn4e9gZEMt-moBem-46bYIMY
 
 *note: This example also uses 4.5 of the fb sdk
